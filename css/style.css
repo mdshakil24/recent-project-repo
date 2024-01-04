@@ -5,3 +5,31 @@ body {
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+h2 {
+    margin-bottom: 10px;
+}
+.wrapper-area {
+    background-color: antiquewhite;
+    padding: 50px 0;
+}
+.container {
+    max-width: 1140px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.single-items {
+    background: tomato;
+    padding: 15px;
+    margin-bottom: 25px;
+    border-radius: 15px;
+    color: #FFFFFF;
+}
